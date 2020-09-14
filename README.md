@@ -1,1 +1,2 @@
-# HW4Submission
+# HW4Submission - Analysis
+The Heroes of Pymoli gave us alot of information in regards to the purchases made by game players. From the information we can make a few inferences.  First, males make up at least 84% of the players. I say at least because 2% was undisclosed gender, which could increase the male player percentage in theory.  Another trend is that 44% of the players are from the age group of 20-24.  When looking at purchase analysis, while more males made purchases than female (652 to 113), it seems females were willing to spend more as they had an average purchase price of $3.20 in comparison to $3.02. 
